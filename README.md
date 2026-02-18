@@ -1,8 +1,8 @@
-#🌿 Plant Health Detector (Healthy vs Diseased)
+# 🌿 Plant Health Detector (Healthy vs Diseased)
 
 This project is a Convolutional Neural Network (CNN) based image classification system that predicts whether a plant leaf is healthy or diseased. The model is trained using labeled leaf images and learns visual features to distinguish plant health conditions.
 
-##📌 Project Overview
+## 📌 Project Overview
 
 Plant diseases can negatively affect crop production and quality. This project uses deep learning and computer vision techniques to automatically classify plant leaves.
 
@@ -28,7 +28,7 @@ Accuracy and loss visualization
 
 Displaying sample images from dataset
 
-##🧠 Technologies Used
+## 🧠 Technologies Used
 
 Python
 
@@ -40,7 +40,7 @@ Matplotlib
 
 Jupyter Notebook
 
-##⚙️ Model Architecture
+## ⚙️ Model Architecture
 
 The CNN model consists of:
 
@@ -65,7 +65,7 @@ Optimizer:
 
 Adam (learning rate = 0.001)
 
-##▶️ How to Run
+## ▶️ How to Run
 1. Install required libraries
 pip install tensorflow numpy matplotlib
 
@@ -78,7 +78,7 @@ bitki_hastalığı1.ipynb
 
 Run all cells sequentially.
 
-##📊 Output
+## 📊 Output
 
 The notebook generates:
 
@@ -92,7 +92,7 @@ Validation Loss graph
 
 Sample dataset images
 
-##🎯 Model Goal
+## 🎯 Model Goal
 
 Classify plant leaf images into:
 
